@@ -1,5 +1,5 @@
 # Enso - Food Gathering Platform
-Hi-Fi Prototypes are designed for friends and family to gather for meals.<br>
+Wireframes are designed for friends and family to gather for meals.<br>
 > **Product Demo** @ [YouTube](https://youtu.be/4nSxcWDC7Fw) <br>
 > **Product Codes** @ [link](https://github.com/jermsinarocket/SoftwareEngineering_Project)
 
